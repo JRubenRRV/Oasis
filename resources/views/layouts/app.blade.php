@@ -32,5 +32,8 @@
                 {{ $slot }}
             </main>
         </div>
+        @if (isset($script_list))
+            {{ $script_list }}
+        @endif
     </body>
 </html>
