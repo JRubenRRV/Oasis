@@ -34,7 +34,7 @@
         </div>
         <script type="module">
             $(document).ready(function(){
-                console.log('Hola mundo');
+                console.log('Welcome to Oasis!');
             });
         </script>
     </body>
